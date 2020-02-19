@@ -1,0 +1,67 @@
+
+.main-sec-wrapper{
+  position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  width: 800px;
+  height: 500px;
+  margin:auto;
+  border: 1px solid black;
+}
+.main-sec{
+  border: 1px solid black;
+  margin: 10px;
+  height:480px;
+
+}
+.pink-element{
+  background-color: #FF9999;
+  margin-bottom:0px;
+  margin-top:-32px;
+  border-bottom: 1px solid black;
+  align:center;
+
+}
+.bottom-sec{
+  height: 350px;
+}
+.bottom-1 {
+  background-color: yellow;
+  width: 75%;
+  height: 338px;
+  float:left;
+}
+.in{
+  color: white;
+  font-size: 1.7em;
+  background: url("Assignment-2-img-1.jpg");
+  width: 96%;
+	height:94%;
+  margin-top: -20px;
+}
+#p4{
+  align:center;
+  padding-top:100px;
+}
+
+.bottom-2 {
+  background-color: #ECECFB;
+  width: 24.5%;
+  height: 338px;
+  float:right;
+  border-left: 1px solid black;
+}
+#p2{
+  font-size: 2rem;
+}
+img{
+  height: 8em;
+  width: 8em;
+  padding: 15px;
+}
+
+#p1 {
+  font-size: 2rem;
+}
