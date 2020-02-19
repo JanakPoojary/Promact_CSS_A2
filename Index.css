@@ -26,12 +26,12 @@
 
 }
 .bottom-sec{
-  height: 280px;
+  height: 300px;
 }
 .bottom-1 {
   background-color: yellow;
   width: 75%;
-  height: 269px;
+  height: 287px;
   float:left;
 }
 .in{
@@ -51,7 +51,7 @@
 .bottom-2 {
   background-color: #ECECFB;
   width: 24.8%;
-  height: 269px;
+  height: 287px;
   float:right;
   border-left: 1px solid black;
 }
@@ -69,12 +69,13 @@ img{
   font-size: 2em;
   padding:10px;
   margin-bottom: 4px;
+  margin-top: 4px;
 }
 #p2{
   font-size: 1.9em;
   margin: -8px;
 }
 #p5{
-  font-size: 1.3em;
-  margin-bottom: 34px;
+  font-size: 1.2em;
+  margin-bottom: 47px;
 }
